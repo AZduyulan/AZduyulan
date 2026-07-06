@@ -24,4 +24,4 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-[![Berkay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AZduyulan&show_icons=true&theme=radical&bg_color=0D1117&text_color=FFFFFF&icon_color=F6871F)](https://github.com/AZduyulan)
+
