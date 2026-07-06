@@ -25,4 +25,4 @@
 
 
 📊 **GitHub Stats:**
-[![Berkay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical&bg_color=0D1117&text_color=FFFFFF&icon_color=F6871F)](https://github.com/anuraghazra/github-readme-stats)
+[![Berkay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AZduyulan&show_icons=true&theme=radical&bg_color=0D1117&text_color=FFFFFF&icon_color=F6871F)](https://github.com/anuraghazra/github-readme-stats)
